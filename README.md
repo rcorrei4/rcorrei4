@@ -28,11 +28,8 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardo0877&show_icons=true&hide_border=true" />
 
 <br>
-### :zap: Recent Activity
-
+<summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-
-</details>
 
 [instagram]: https://instagram.com/rcorreiax
 [linkedin]: https://www.linkedin.com/in/ricardo0877/
