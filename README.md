@@ -2,8 +2,8 @@
 
 ## I'm a Developer and Student!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Make my Github contributions more green :)
+- 🌱 I’m currently learning everything
+- 🥅 2021 Goals: Make my Github contributions more greeny :)
 
 ### Connect with me:
 
