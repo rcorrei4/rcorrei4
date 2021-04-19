@@ -26,6 +26,7 @@
 <br />
 
 ### :zap: Recent GitHub Activity
+
 <!--START_SECTION:activity-->
 
 ### :zap: Github Stats
