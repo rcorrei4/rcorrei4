@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="ricardo0877 | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
-[<img align="left" alt="rcorreiax | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rcorreiax | Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
 <br />
 
