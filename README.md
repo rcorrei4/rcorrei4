@@ -28,6 +28,8 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#13](https://github.com/jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+<!--END_SECTION:activity-->
 
 ### :zap: Github Stats
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardo0877&show_icons=true&hide_border=true" />
