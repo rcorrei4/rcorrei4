@@ -28,7 +28,7 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❗️ Reopened issue [#1](https://github.com/ricardo0877/aliscript/issues/1) in [ricardo0877/aliscript](https://github.com/ricardo0877/aliscript)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
