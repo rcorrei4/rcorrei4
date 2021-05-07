@@ -40,4 +40,5 @@
 [linkedin]: https://www.linkedin.com/in/ricardo0877/
 
 <br>
+
 ### Singularity is near...
