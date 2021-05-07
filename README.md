@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Make my Github contributions more greeny :)
+- Singularity is near
 
 ### Connect with me:
 
