@@ -35,9 +35,7 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardo0877&show_icons=true&hide_border=true" />
 
 <br>
+### Singularity is near...
 
 [instagram]: https://instagram.com/rcorreiax
 [linkedin]: https://www.linkedin.com/in/ricardo0877/
-
-
-### Singularity is near...
