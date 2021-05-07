@@ -37,8 +37,6 @@
 <br>
 
 [instagram]: https://instagram.com/rcorreiax
-[linkedin]: https://www.linkedin.com/in/ricardo0877/
-
-<br/>
+[linkedin]: https://www.linkedin.com/in/ricardo0877/ \
 
 ### Singularity is near...
