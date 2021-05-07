@@ -32,9 +32,20 @@
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardo0877&show_icons=true&hide_border=true" />
+<img align="left" alt="ricardo0877 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardo0877&show_icons=true&hide_border=true" />
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
 
 ### Singularity is near...
 
