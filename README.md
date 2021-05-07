@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Make my Github contributions more greeny :)
-- Singularity is near
 
 ### Connect with me:
 
@@ -39,3 +38,5 @@
 
 [instagram]: https://instagram.com/rcorreiax
 [linkedin]: https://www.linkedin.com/in/ricardo0877/
+
+### Singularity is near...
