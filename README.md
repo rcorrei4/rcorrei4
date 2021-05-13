@@ -28,7 +28,7 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#1](https://github.com/ricardo0877/aliscript/issues/1) in [ricardo0877/aliscript](https://github.com/ricardo0877/aliscript)
+1. ❗️ Closed issue [#4](https://github.com/ricardo0877/aliscript/issues/4) in [ricardo0877/aliscript](https://github.com/ricardo0877/aliscript)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
