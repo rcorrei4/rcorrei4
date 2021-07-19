@@ -1,6 +1,6 @@
-### Hi there, I'm Ricardo 👋
+### Hey, I'm Ricardo 👋
 
-## I'm a Developer and Student!!
+## Developer and Student
 
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Make my Github contributions more greeny :)
