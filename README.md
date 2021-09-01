@@ -31,9 +31,6 @@
 1. ❗️ Closed issue [#4](https://github.com/ricardo0877/aliscript/issues/4) in [ricardo0877/aliscript](https://github.com/ricardo0877/aliscript)
 <!--END_SECTION:activity-->
 
-### :zap: Github Stats
-<img align="left" alt="ricardo0877 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ricardo0877&show_icons=true&hide_border=true" />
-
 <br>
 <br>
 <br>
