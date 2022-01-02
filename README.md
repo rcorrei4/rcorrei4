@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Make my Github contributions more greeny :)
+- 🥅 2022 Goals: Make my Github contributions COMPLETELY green
 
 ### Connect with me:
 
