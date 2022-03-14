@@ -1,6 +1,6 @@
 
 ### Hey, I'm Ricardo 👋
-<img  src="https://raw.githubusercontent.com/rcorrei4/rcorrei4/main/presentation.gif" />
+<img align="center" src="https://raw.githubusercontent.com/rcorrei4/rcorrei4/main/presentation.gif" />
 
 ## Developer and Student
 
