@@ -1,5 +1,6 @@
 
 ### Hey, I'm Ricardo 👋
+<img  src="https://raw.githubusercontent.com/rcorrei4/rcorrei4/main/presentation.gif" />
 
 ## Developer and Student
 
@@ -9,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ricardo0877 | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
+[<img align="left" alt="rcorrei4 | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
 [<img align="left" alt="rcorreiax | Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
 <br />
@@ -17,6 +18,10 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -44,5 +49,5 @@
 
 ### Singularity is near...
 
-[instagram]: https://instagram.com/rcorreiax
-[linkedin]: https://www.linkedin.com/in/ricardo0877/
+[instagram]: https://instagram.com/rcorrei4
+[linkedin]: https://www.linkedin.com/in/rcorrei4/
