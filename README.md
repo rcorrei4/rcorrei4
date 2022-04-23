@@ -6,8 +6,7 @@
 
 - 🌱 I’m currently searching for a Python Developer/Backend Developer job
 - 🥅 2021 Goals: Make my Github contributions more greeny :)
-- 🥅 2022 Goals: Make my Github contributions COMPLETELY green (already failed :/ )
-                Get my first job
+- 🥅 2022 Goals: Make my Github contributions COMPLETELY green (already failed :/ ) and Get my first job
 
 ### Connect with me:
 
