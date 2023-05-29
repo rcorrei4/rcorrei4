@@ -2,15 +2,6 @@
 ### Hey, I'm Ricardo 👋
 <img align="center" src="https://raw.githubusercontent.com/rcorrei4/rcorrei4/main/presentation.gif" />
 
-## Developer and Student
-
-- 🌱 I’m currently searching for a Python Developer/Backend Developer job
-- 🥅 2021 Goals: 
-  - Make my Github contributions more greeny :)
-- 🥅 2022 Goals: 
-  - Make my Github contributions COMPLETELY green (already failed :/ )
-  - Get my first job
-
 ### Connect with me:
 
 [<img align="left" alt="rcorrei4 | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
